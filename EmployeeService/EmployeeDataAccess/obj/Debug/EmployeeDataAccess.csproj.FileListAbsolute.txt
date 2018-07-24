@@ -1,0 +1,10 @@
+C:\Users\Pheakdey\Documents\Visual Studio 2013\Projects\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+C:\Users\Pheakdey\Documents\Visual Studio 2013\Projects\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+C:\Users\Pheakdey\Documents\Visual Studio 2013\Projects\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+C:\Users\Pheakdey\Documents\Visual Studio 2013\Projects\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Pheakdey\Documents\Visual Studio 2013\Projects\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pheakdey\Documents\Visual Studio 2013\Projects\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Pheakdey\Documents\Visual Studio 2013\Projects\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pheakdey\Documents\Visual Studio 2013\Projects\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Pheakdey\Documents\Visual Studio 2013\Projects\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+C:\Users\Pheakdey\Documents\Visual Studio 2013\Projects\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
